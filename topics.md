@@ -3,7 +3,7 @@
 
 ## 前端
 
-    * ajax登录
+* ajax登录
     
 ## php
 
@@ -11,8 +11,8 @@
 
 ## github
 
-    * github使用心得
-    * 基于github搭建博客
+* github使用心得
+* 基于github搭建博客
 
     
 
